@@ -1,8 +1,12 @@
 # Hello :)
 
-* Using Languages: **Java, Python, C**
+***
+
+* Using Languages: **Java, ~~Python~~, C**
 
 * Usually... **Develop Minecraft PaperSpigot or Spigot Plugins *(JE)***
+
+***
 
 ```java
 @Override
@@ -13,3 +17,5 @@ public void onEnable() {
   health--;
 }
 ```
+
+***
