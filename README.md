@@ -1,11 +1,14 @@
 
 ***
-
+<a href="#">
+ 
 * Languages: <img align="center" src="https://img.shields.io/badge/-Java-e11f21?logo=java&logoColor=white&style=flat"/> <!--
  --><img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/> <!--
  --><img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat"/> <!--
  --><img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/>
+ 
 * Main Language: <img align="center" src="https://img.shields.io/badge/-Java-e11f21?logo=java&logoColor=white&style=flat"/>
+
 * Studying: <img align="center" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat"/> <!--
  --><img align="center" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat"/> <!--
  --><img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat"/> <!--
@@ -13,6 +16,7 @@
  --><img align="center" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat"/> <!--
  --><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/> <!--
  --><img align="center" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
+ </a>
 
 ***
 
