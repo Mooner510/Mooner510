@@ -14,8 +14,7 @@
  --><a href="#"><img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat"/></a> <!--
  --><a href="#"><img align="center" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat"/></a> <!--
  --><a href="#"><img align="center" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/></a>
+ --><a href="#"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/></a>
 
 ***
 
