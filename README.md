@@ -1,20 +1,15 @@
 
 ***
 
+<div align="left">
  
-* Languages: <a href="#"><img align="center" src="https://img.shields.io/badge/-Java-e11f21?logo=java&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/></a>
- 
-* Main Language: <a href="#"><img align="center" src="https://img.shields.io/badge/-Java-e11f21?logo=java&logoColor=white&style=flat"/></a>
+**Expert!** <a href="#"><img align="center" src="https://badges.aleen42.com/src/java.svg"/></a>
 
-* Studying: <a href="#"><img align="center" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat"/></a> <!--
- --><a href="#"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/></a>
+**Languages...** <a href="#"><img align="center" src="https://badges.aleen42.com/src/java.svg"/></a> <a href="#"><img align="center" src="https://github.com/aleen42/badges/raw/master/src/python.svg"/></a> <a href="#"><img align="center" src="https://github.com/aleen42/badges/raw/master/src/kotlin.svg"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat"/></a>
+
+**Studying...** <a href="#"><img align="center" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://github.com/aleen42/badges/raw/master/src/javascript.svg"/></a>
+ 
+**Forced Studying...** <a href="#"><img align="center" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white&style=flat"/> <a href="#"><img align="center" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white&style=flat"/></a>
 
 ***
 
