@@ -9,7 +9,7 @@
 
 ***
 
-![Mooner510's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooner510&theme=omni&show_icons=true)
+<!-- ![Mooner510's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooner510&theme=omni&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mooner510&layout=compact&theme=omni)
 
