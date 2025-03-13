@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: regular
           config_timezone: Asia/Seoul
           plugin_activity: yes
           plugin_activity_days: 14
