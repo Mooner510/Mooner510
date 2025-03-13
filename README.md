@@ -1,15 +1,18 @@
-
-***
-
-<div align="left">
+# Welcome, I am Mooner510
+[![wakatime](https://wakatime.com/badge/user/0a65624e-b301-43ee-8ccb-c85f1491dbb7.svg)](https://wakatime.com/@0a65624e-b301-43ee-8ccb-c85f1491dbb7)
  
-**Expert!** <a href="#"><img align="center" src="https://badges.aleen42.com/src/java.svg"/></a>
+![Metrics](github-metrics.svg)
 
-**Languages...** <a href="#"><img align="center" src="https://badges.aleen42.com/src/java.svg"/></a> <a href="#"><img align="center" src="https://github.com/aleen42/badges/raw/master/src/python.svg"/></a> <a href="#"><img align="center" src="https://github.com/aleen42/badges/raw/master/src/kotlin.svg"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat"/></a> <a href="#"><img align="center" src="https://github.com/aleen42/badges/raw/master/src/javascript.svg"/></a> 
+### Main: Game Client Dev.
+for Mobile-Platform(Android, iOS) & Desktop-Platform(Windows, MacOS)
 
-***
+### Hobbies
+1. Minecraft Plugin (for Paper, Kotlin/Java)
+2. Backend Dev. (with SpringBoot, Kotlin/Java)
+3. Frontend Dev. (with React/Next.js)
+4. Android-Native Dev.
 
-<!-- ![Mooner510's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooner510&theme=omni&show_icons=true) -->
+<!-- ![Mooner510's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooner510&theme=omni&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mooner510&layout=compact&theme=omni)
 
@@ -30,4 +33,4 @@ public void onEnable() {
 [![](https://gen.plancke.io/exp/Mooner510.png)](https://plancke.io/hypixel/player/stats/Mooner510)
 [![](https://gen.plancke.io/achievementPoints/Mooner510.png)](https://plancke.io/hypixel/player/stats/Mooner510)
 
-***
+*** -->
