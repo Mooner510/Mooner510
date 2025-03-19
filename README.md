@@ -6,7 +6,8 @@
 </picture>
 
 ### Main: Game Client Dev.
-for Mobile-Platform(Android, iOS) & Desktop-Platform(Windows, MacOS)
+for Mobile(+Native) / Desktop / Web
+with **Unity**
 
 ### Hobbies
 1. Minecraft Plugin (for Paper, Kotlin/Java)
