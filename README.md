@@ -10,9 +10,9 @@ for Mobile(+Native) / Desktop / Web
 with **Unity**
 
 ### Hobbies
-1. Minecraft Plugin (for Paper, Kotlin/Java)
-2. Backend Dev. (with SpringBoot, Kotlin/Java)
-3. Frontend Dev. (with React/Next.js)
+1. Minecraft Plugin (Paper/Spigot: Kotlin/Java)
+2. Backend Dev. (SpringBoot, Nest.js)
+3. Frontend Dev. (React, Next.js, Vue.js)
 4. Android-Native Dev.
 
 <!-- ![Mooner510's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooner510&theme=omni&show_icons=true)
