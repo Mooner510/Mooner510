@@ -11,7 +11,7 @@ with **Unity**
 
 ### Hobbies
 1. Minecraft Plugin (Paper/Spigot: Kotlin/Java)
-2. Backend Dev. (SpringBoot, Nest.js)
+2. Backend Dev. (SpringBoot, NestJS)
 3. Frontend Dev. (React, Next.js)
 4. Android-Native Dev.
 
