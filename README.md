@@ -12,7 +12,7 @@ with **Unity**
 ### Hobbies
 1. Minecraft Plugin (Paper/Spigot: Kotlin/Java)
 2. Backend Dev. (SpringBoot, Nest.js)
-3. Frontend Dev. (React, Next.js, Vue.js)
+3. Frontend Dev. (React, Next.js)
 4. Android-Native Dev.
 
 <!-- ![Mooner510's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooner510&theme=omni&show_icons=true)
